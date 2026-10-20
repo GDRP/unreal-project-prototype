@@ -1,0 +1,10 @@
+# Unreal Engine caches & binaries
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+
+# Zen Cache
+Content/Zen/
